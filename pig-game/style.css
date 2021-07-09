@@ -172,7 +172,7 @@ main {
 
 footer {
   position: absolute;
-  left: 50%;
+  left: 90%;
   bottom: 1px;
   transform: translateX(-50%);
   color: #999;
